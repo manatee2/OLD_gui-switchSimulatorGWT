@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/workspace/Logger/target/logger-1.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alan.layton/.m2/repository/org/apache/activemq/activemq-all/5.3.1/activemq-all-5.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alan.layton/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
